@@ -1,5 +1,5 @@
 def f1():
-    pass
+    return "Go to home"
 
 def f2():
     print('Misha loh')
